@@ -197,23 +197,23 @@ figcaption,
 }
 
 /* logo container */
-.navbar .brand-logo {
-  position: absolute;
-  top: 10px;   /* adjust so it "floats" above navbar */
-  left: 10px;
-  z-index: 10;  /* make sure it's on top */
-}
+/*.navbar .brand-logo { */
+/*  position: absolute; */
+/*  top: 10px; */
+/*  left: 10px; */
+/*  z-index: 10; */
+/*} */
 
 /* the logo image */
 .navbar .brand-logo img {
-  height: 200px;
+  height: 40px;
   width: auto;
-  display: block;
+/*  display: block; */
 }
 
 /* adjust the navbar link text */
-.navbar-nav > li > a {
-  padding-left: 110px;  /* leave space for the logo */
-  line-height: 56px;    /* vertically center in navbar */
-}
+/*.navbar-nav > li > a { */
+/*  padding-left: 110px; */
+/*  line-height: 56px; */
+/*}
 

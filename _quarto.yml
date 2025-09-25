@@ -5,7 +5,7 @@ project:
 website: 
   title: |
     <a href="https://www.rescue.org" class="brand-logo">
-      <img src="images/irc_logo.jpg" alt="IRC Logo">
+      <img src="images/irc_logo.png" alt="IRC Logo">
     </a>
   navbar: 
     left: 
